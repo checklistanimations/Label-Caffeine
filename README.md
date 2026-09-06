@@ -1,4 +1,4 @@
-# label-caffeine
+# Label Caffeine
 a VBA framework that can be added into projects to provide modern day button functionality using labels and the core code.
 
 
@@ -57,6 +57,31 @@ The pipeline will look at each tag and verify....
 * clean tag by fixing prefix to ; then split all by ;
 
 
+
+###Properties that can be used in LC tags
+- useBack
+- useOpacity
+- useFore
+- useFont
+- useOutline
+- useBorder
+- useSpecial
+- usePicture
+- useGlass
+- group
+- action
+- tooltip
+
+
+
+###FAQ
+
+
+
+###Checklist
+[] finish documentation
+[] figure out new pipeline
+[] see if checklist works
 
 Explanation
 LabelCaffeine: = The identifier
