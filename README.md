@@ -58,7 +58,7 @@ The pipeline will look at each tag and verify....
 
 
 
-###Properties that can be used in LC tags
+### Properties that can be used in LC tags
 - useBack
 - useOpacity
 - useFore
@@ -74,15 +74,15 @@ The pipeline will look at each tag and verify....
 
 
 
-###FAQ
+### FAQ
 
 
 
-###Checklist
--[ ] finish documentation
--[ ] figure out new pipeline
--[ ] see if checklist works
--[] do we need the space
+### Checklist
+- [ ] finish documentation
+- [ ] figure out new pipeline
+- [ ] see if checklist works
+- [] do we need the space
 
 
 
