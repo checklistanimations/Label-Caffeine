@@ -82,7 +82,7 @@ The pipeline will look at each tag and verify....
 - [ ] finish documentation
 - [ ] figure out new pipeline
 - [ ] see if checklist works
-- [] do we need the space
+- [ ] do we need the space
 
 
 
