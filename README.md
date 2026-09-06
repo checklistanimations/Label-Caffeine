@@ -79,9 +79,9 @@ The pipeline will look at each tag and verify....
 
 
 ###Checklist
-[] finish documentation
-[] figure out new pipeline
-[] see if checklist works
+[ ] finish documentation
+[ ] figure out new pipeline
+[ ] see if checklist works
 
 Explanation
 LabelCaffeine: = The identifier
