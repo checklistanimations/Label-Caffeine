@@ -79,10 +79,10 @@ The pipeline will look at each tag and verify....
 
 
 ### Checklist
-- [ ] finish documentation
-- [ ] figure out new pipeline
-- [ ] see if checklist works
-- [ ] do we need the space
+- [] finish documentation
+- [] figure out new pipeline
+- [] see if checklist works
+- [] do we need the space
 
 
 
