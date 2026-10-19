@@ -2,6 +2,8 @@
 a VBA framework that can be added into projects to provide modern day button functionality using labels and the core code.
 
 # Current Release
+**Experienced Devs can download the beta files**  
+![Total downloads](https://img.shields.io/github/downloads/checklistanimations/Label-Caffeine/total)
 At the moment all files are for testing on different systems. They are not production level and should not be downloaded.
 
 # Features
